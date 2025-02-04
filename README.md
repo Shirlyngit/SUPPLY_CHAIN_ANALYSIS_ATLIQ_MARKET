@@ -1,6 +1,5 @@
-![supply_chain screenshot.PNG](dashboard)
+![Supply_chain_screenshot](https://github.com/Shirlyngit/SUPPLY_CHAIN_ANALYSIS_ATLIQ_MARKET/blob/main/supply_chain%20screenshot.PNG)
 
-![supply_chain2.PNG](dashboard)
 
 **LINK TO THE INTERACTIVE DASHBOARD WITH FILTERS**: [Supply Chain Analysis dahsboard.mp4](dashboard)
 
